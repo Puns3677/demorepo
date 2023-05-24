@@ -1,0 +1,29 @@
+
+
+
+sftp://IT@192.168.1.7/Home/README.txt
+
+http://192.168.1.7/IT/Home/README.txt
+
+http://103.251.141.50/IT/Home/README.txt
+
+
+
+http://puspl.purpleunited.in/IT/Home/How_To_Use_Google_Drive.pdf
+
+
+http://puspl.purpleunited.in/content/Home/
+
+sftp://IT@puspl.purpleunited.in/Home/How_To_Use_Google_Drive.pdf
+
+
+New FTP Create Command :
+
+1.  vim userlist.txt
+2. Click Insert & Create FTP Name ( :wq ) save 
+3. (./sftp.sh ) enter this command 
+4. sudo passwd content  Enter this command and change the password 
+ 
+
+
+
